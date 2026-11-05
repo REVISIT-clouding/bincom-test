@@ -14,6 +14,6 @@ class Ward extends Model
     }
 
     public function lga(){
-        return $this->belongsTo(LGA::class, 'lga_id', 'lga_id');
+        return $this->belongsTo(Lga::class, 'lga_id', 'lga_id');
     }
 }

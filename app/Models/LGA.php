@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class LGA extends Model
+class Lga extends Model
 {
     protected $table = 'lga';
     protected $primaryKey = 'lga_id';

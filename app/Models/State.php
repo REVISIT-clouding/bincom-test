@@ -10,6 +10,6 @@ class State extends Model
     protected $primarykey = 'state_id';
 
     public function states(){
-       return $this->hasMany(LGA::class);
+       return $this->hasMany(Lga::class);
     }
 }

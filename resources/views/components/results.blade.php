@@ -406,7 +406,7 @@
 
         @if($lgaIds->isNotEmpty())
 
-            <!-- DESKTOP COMPARISON TABLE -->
+      
 
             <div class="desktop-comparison">
 

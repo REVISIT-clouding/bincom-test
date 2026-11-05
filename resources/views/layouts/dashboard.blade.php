@@ -362,16 +362,6 @@
                     <span class="nav-text">LGA Results</span>
                 </a>
 
-                <a href="#">
-                    <svg class="w-4 h-4 shrink-0" fill="none"
-                         stroke="currentColor" stroke-width="2"
-                         viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round"
-                              d="M8 7h12M8 12h12M8 17h12M4 7h.01M4 12h.01M4 17h.01"/>
-                    </svg>
-
-                    <span class="nav-text">Unique's documentation.</span>
-                </a>
 
             </nav>
 

@@ -360,6 +360,15 @@
                     </svg>
 
                     <span class="nav-text">LGA Results</span>
+                <a href="{{ url('/create-result') }}">
+                    <svg class="w-4 h-4 shrink-0" fill="none"
+                         stroke="currentColor" stroke-width="2"
+                         viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round"
+                              d="M12 5v14m-7-7h14"/>
+                    </svg>
+                    <span class="nav-text">Submit Results</span>
+                </a>
                 </a>
 
 
